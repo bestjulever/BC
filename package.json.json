@@ -1,5 +1,7 @@
 {
+  "name": "bloom-charm",
+  "version": "1.0.0",
   "dependencies": {
-    "stripe": "^14.0.0"
+    "stripe": "^12.0.0"
   }
 }
